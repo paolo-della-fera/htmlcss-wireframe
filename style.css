@@ -1,0 +1,25 @@
+/* css reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* body */
+
+body {
+    width: 512px;
+}
+
+
+
+/* header */
+
+header {
+    padding: 10px 15px;
+    border-width: 3px;
+    border-bottom-style: solid;
+}
